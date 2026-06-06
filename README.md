@@ -119,9 +119,6 @@ The dataset contains Airbnb listing information such as:
 **Jahnavi Machineni**
 Aspiring Data Analyst | Machine Learning Enthusiast
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: https://www.linkedin.com/
-
 ---
 
 ⭐ *If you found this project useful, consider giving it a star!*
